@@ -5,7 +5,7 @@ const headerEl = document.querySelector(".header");
 
 btnNavEl.addEventListener("click", function () {
   headerEl.classList.toggle("nav-open");
-  console.log("skjfeskn");
+  console.log("skjfehgvj");
 });
 
 ////////////////////////////////// ////////Smooth scrolling animation ///////////////////////////////////
